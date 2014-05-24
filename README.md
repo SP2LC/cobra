@@ -13,7 +13,9 @@
 
 ####how to install
 
-if you don't have `pip` in your python enviroment, first `easy_install pip`
+If you don't have `pip` in your python enviroment, first `easy_install pip`
+
+If you don't have `easy_install` in your python enviroment to, please install `easy_install` on your package system.
 
 ` pip install numpy `
 
